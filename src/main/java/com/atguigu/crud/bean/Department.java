@@ -4,8 +4,11 @@ public class Department {
     private Integer deptId;
 
     private String deptName;
-    
-    
+
+
+/**
+ *加一个注释
+ */
 
     public Department() {
 		super();
